@@ -6,7 +6,7 @@ public class Config {
      * CHROME_MAC
      * CHROME_WINDOWS
      * MOZILLA_MAC
-     * **/
+     **/
     public static final String BROWSER_AND_PLATFORM = "CHROME_WINDOWS";
 
 }
